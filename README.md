@@ -1,6 +1,7 @@
 1. Repozitorija kopēšana savā github kontā:
 
 ![img.png](img.png)
+
 2. Repozitorija klonēšana:
 
 * Nokopējam repozitorija URL:
@@ -19,9 +20,11 @@
 5. Jauna faila veidošana:
 
 ![img_4.png](img_4.png)
+
 6. Kommit veikšana - Git -> Commit:
  
 ![img_5.png](img_5.png)
+
 8. Izmaiņu nosūtīšana uz GitHub - Git -> Push.
 9. Pull request izveidošana:
  
