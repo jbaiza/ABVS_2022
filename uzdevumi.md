@@ -23,4 +23,5 @@ Par katru nākamo izpildīto uzdevumu - **+1 balle**.
 5) Izvadīt uz ekrāna vai ievadītais skaitlis ir nepāra skaitlis.
 6) Izvadīt uz ekrāna vai lietotāja ievadītais skaitlis dalās ar 5 un 7.
 7) Izvadīt uz ekrāna lietotāja ievadītā teksta garumu.
-8) Lietotāja ievadītam skaitlim, kas reprezentē diennakts stundu (0-23) izvadīt stundai atbilstošu sveicienu. No 6 līdz 11 - "Labrīt!", no 12 līdz 16 - "Labdien!", no 17 līdz 22 - "Labvakar!", no 23 līdz 5 - "Laiks gulēt!".
+8) Lietotāja ievadītam skaitlim, kas reprezentē diennakts stundu (0-23) izvadīt stundai atbilstošu sveicienu. 
+No 6 līdz 11 - "Labrīt!", no 12 līdz 16 - "Labdien!", no 17 līdz 22 - "Labvakar!", no 23 līdz 5 - "Laiks gulēt!".

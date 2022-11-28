@@ -1,0 +1,5 @@
+input1 = int(input("Ievadi pirmo skaitli: "))
+input2 = int(input("Ievadi otro skailti: "))
+print (input1 + input2)
+print (input1 * input2)
+print (input1 / input2)
