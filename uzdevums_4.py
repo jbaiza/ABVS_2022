@@ -1,0 +1,5 @@
+# x = int(input("Ievadi pirmo skaitli: "))
+# y = int(input("Ieadi otro skaitli: "))
+# print(x + y)
+# print(x * y)
+# print(x / y)
