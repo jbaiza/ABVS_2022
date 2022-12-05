@@ -1,6 +1,5 @@
-# x = input(input('Ievadi skaitli'))
-# y = input(input('Ieadi skaitli'))
-# print(x+y)
-# print(x*y)
-# print(x/y)
-
+# x = int(input("Ievadi pirmo skaitli: "))
+# y = int(input("Ieadi otro skaitli: "))
+# print(x + y)
+# print(x * y)
+# print(x / y)
